@@ -1,0 +1,4 @@
+Name: Wrap selected text with a function
+Description: Rstudio will prompt for input of what functions to wrap the selected text
+Binding: wrap_w_func
+Interactive: false

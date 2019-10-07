@@ -1,0 +1,21 @@
+Package: rtortilla
+Type: Package
+Title: Wrap selected text with a function (or tortilla)
+Version: 0.1.0
+Authors@R: person(given = "Ben",
+           family = "Toh",
+           role = c("cre", "aut"),
+           email = "kokbent@yahoo.com",
+           comment = c(ORCID = "0000-0003-1371-817X"))
+Description: Add an addin to the Rstudio, and you can assign the
+    addin with a shortcut key so when you need to wrap a something
+    into a function, you can just invoke the shortcut, type the
+    function you want and the addin do the job for you.
+Imports:
+    rstudioapi
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
+Language: en-US
